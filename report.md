@@ -113,23 +113,7 @@ Standard YOLO augmentations (mosaic, colour jitter) were kept enabled. Rotation 
 
 ---
 
-## 7. Results
-
-*(Populate this section with actual values after training)*
-
-| Metric | Value |
-|--------|-------|
-| mAP@0.5 | — |
-| mAP@0.5:0.95 | — |
-| Precision | — |
-| Recall | — |
-| Inference time (GPU) | — ms/image |
-
-Training curves, confusion matrix, and precision-recall curves are included in the `outputs/` folder of the repository.
-
----
-
-## 8. Limitations & Future Work
+## 7. Limitations & Future Work
 
 **Current limitations:**
 - The model is trained only on wrist/hand X-rays and cannot generalise to other bone types
@@ -145,7 +129,7 @@ Training curves, confusion matrix, and precision-recall curves are included in t
 
 ---
 
-## 9. Learning Outcomes
+## 8. Learning Outcomes
 
 This project deepened my understanding in several areas:
 
@@ -157,7 +141,7 @@ This project deepened my understanding in several areas:
 
 ---
 
-## 10. References
+## 9. References
 
 1. Jocher, G. et al. (2023). *Ultralytics YOLOv8*. https://github.com/ultralytics/ultralytics  
 2. Redmon, J. & Farhadi, A. (2018). *YOLOv3: An Incremental Improvement*. arXiv:1804.02767  
