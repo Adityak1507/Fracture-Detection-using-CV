@@ -118,16 +118,6 @@ results[0].show()
 
 ---
 
-##  Results
-
-| Metric | Value |
-|--------|-------|
-| mAP@0.5 | — |
-| mAP@0.5:0.95 | — |
-| Precision | — |
-| Recall | — |
-
----
 
 ##  Configuration
 
