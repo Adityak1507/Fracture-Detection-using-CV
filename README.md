@@ -120,8 +120,6 @@ results[0].show()
 
 ##  Results
 
-*(Update with your actual results after training)*
-
 | Metric | Value |
 |--------|-------|
 | mAP@0.5 | — |
