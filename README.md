@@ -1,4 +1,4 @@
-# 🦴 Wrist & Hand Fracture Detection using YOLOv8
+#  Wrist & Hand Fracture Detection using YOLOv8
 
 A computer vision project that uses **YOLOv8 object detection** to automatically localise fractures in wrist and hand X-ray images, built as part of a Computer Vision course capstone (BYOP).
 
@@ -8,13 +8,13 @@ A computer vision project that uses **YOLOv8 object detection** to automatically
 
 ---
 
-## 📌 Problem Statement
+##  Problem Statement
 
 Fracture diagnosis from X-ray images depends on radiologist availability — a bottleneck in under-resourced or high-throughput medical settings. This project builds an automated detection pipeline that localises fractures in wrist/hand X-rays and outputs bounding box annotations with confidence scores, functioning as a screening aid.
 
 ---
 
-## 🗂 Project Structure
+##  Project Structure
 
 ```
 fracture-detection/
@@ -54,7 +54,7 @@ fracture-detection/
 
 ---
 
-## ⚙️ Setup
+##  Setup
 
 ### Prerequisites
 - Python 3.9 or higher
@@ -84,7 +84,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🚀 Usage
+##  Usage
 
 ### Run the full pipeline
 
@@ -118,7 +118,7 @@ results[0].show()
 
 ---
 
-## 📊 Results
+##  Results
 
 *(Update with your actual results after training)*
 
@@ -131,7 +131,7 @@ results[0].show()
 
 ---
 
-## 🛠 Configuration
+##  Configuration
 
 Key parameters you can change at the top of Section 4 in the notebook:
 
@@ -145,7 +145,7 @@ CLASS_NAMES   = ["fracture"]   # Add more classes if your dataset has them
 
 ---
 
-## 📦 Requirements
+##  Requirements
 
 ```
 ultralytics>=8.0.0
@@ -169,13 +169,13 @@ pip install -r requirements.txt
 
 ---
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 This project is for **educational purposes only**. The model has not been clinically validated and should not be used for medical diagnosis. All clinical decisions must be made by qualified healthcare professionals.
 
 ---
 
-## 📄 License
+##  License
 
 MIT License — see `LICENSE` for details.
 
